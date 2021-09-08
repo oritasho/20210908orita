@@ -1,0 +1,52 @@
+header{
+  display: flex;
+  align-items: center;
+  color:#00008B;
+  width:1300px;
+}
+
+h1{
+  display:flex;
+  font-size: 30px;
+  margin:30px;
+}
+
+ul{
+  display:flex;
+  margin-left:auto;
+}
+
+li{
+  display:flex;
+  font-size: 20px;
+  margin-right:20px;
+}
+
+div{
+  width:1500px;
+}
+
+img{
+  width:800px;
+  height:600px;
+  display:block;
+  margin:0 0 0 auto;
+  position:relative;
+  top:200px;
+  right:100px;
+}
+
+footer{
+  margin-top:50px;
+}
+
+.footer-content{
+  font-size:70px;
+}
+
+.footer-color{
+  background-color: #000080;
+  width:1000px;
+  height:250px;
+  margin-bottom:30px;
+}
