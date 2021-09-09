@@ -1,29 +1,28 @@
+body{
+  width:1500px;
+}
+
 header{
-  display: flex;
   align-items: center;
   color:#00008B;
   width:1300px;
+  display: flex;
+  justify-content: flex-end;
 }
 
 h1{
-  display:flex;
   font-size: 30px;
-  margin:30px;
+  margin:20px auto 20px 20px;
 }
 
 ul{
   display:flex;
-  margin-left:auto;
 }
 
 li{
   display:flex;
   font-size: 20px;
   margin-right:20px;
-}
-
-div{
-  width:1500px;
 }
 
 img{
@@ -36,15 +35,15 @@ img{
   right:100px;
 }
 
-footer{
+.text{
   margin-top:50px;
 }
 
-.footer-content{
+.text-content{
   font-size:70px;
 }
 
-.footer-color{
+.text-color{
   background-color: #000080;
   width:1000px;
   height:250px;
