@@ -5,14 +5,13 @@ body{
 header{
   align-items: center;
   color:#00008B;
-  width:1300px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
 }
 
 h1{
   font-size: 30px;
-  margin:20px auto 20px 20px;
+  margin:20px 20px 20px;
 }
 
 ul{
@@ -32,7 +31,6 @@ img{
   margin:0 0 0 auto;
   position:relative;
   top:200px;
-  right:100px;
 }
 
 .text{
